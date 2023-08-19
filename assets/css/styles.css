@@ -217,6 +217,9 @@ img {
 .home_social-icon:hover {
   color: var(--first-color);
 }
+.homie_social {
+  visibility: hidden;
+}
 
 .home_img {
   position: absolute;
